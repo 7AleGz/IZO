@@ -1,7 +1,7 @@
 /* 
-A) Necesito ver el perímetro de un triángulo. 
+A) Necesito calcular la hipotenusa, el perímetro y la superficie de un triángulo rectángulo. 
 B) Solicitar lados.
-C) Variable float que almacena los números y devolver el calculo desde printf();
+C) Variable float que almacena los números, y otra que almacene la hipotenusa ya calculada. Devolver el calculo desde printf();
 D) Compilar. Ejecutar
 E) Validar.
 */

@@ -1,3 +1,12 @@
+/* 
+A) Necesito ingresar dos valores, calcular su suma, su producto y la resta del 1ro menos el 2do
+valor ingresado
+B) Solicitar ambos números.
+C) Variable float que almacena los números, devolver el calculo desde printf();
+D) Compilar. Ejecutar
+E) Validar.
+*/
+
 #include <stdio.h>
 #include <conio.h>
 

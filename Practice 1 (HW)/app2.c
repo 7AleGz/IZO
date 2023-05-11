@@ -1,28 +1,33 @@
+/* 
+A) Necesito ver la suma de tres números enteros ingresados. 
+B) Solicitar los números.
+C) Variable float que almacena los números y devolver el calculo desde printf();
+D) Compilar. Ejecutar
+E) Validar.
+*/
+
 #include <stdio.h>
 #include <conio.h>
 
 int main() {
-	float dep1, dep2, ti, sum;
-    printf("Programa Suma Dep\xA2sitos con Inter\x82s \n");
-    printf("Ingrese el primer dep\xA2sito realizado: \n");
-    if (scanf("%f", &dep1) != 1) {
+	float n1, n2, n3;
+    printf("Programa para calcular la suma de tres n\xA3meros \n");
+    printf("Ingrese su primer valor: \n");
+    if (scanf("%f", &n1) != 1) {
     	printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros");
     	return 1;
 	}
-	if (getchar() != '\n') {
-		printf("Volv\x82 a ejecutar el programa usando solo n\xA3meros");
-		return 1;
-	}
-    printf("Ingrese el segundo dep\xA2sito realizado: \n");
-    if (scanf("%f", &dep2) != 1) {
+    printf("Ingrese su segundo valor: \n");
+    if (scanf("%f", &n2) != 1) {
     	printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros");
     	return 1;
 	}
-    sum = dep1 + dep2;
-    ti = sum * 0.20;
-    printf("La Suma de sus dep\xA2sitos es de: $%.2f \n", sum);
-    printf("El inter\x82s aplicado ser\xA0 del: $%.2f \n", ti);
-    printf("Su total es de: $%.2f", sum + ti);
+    printf("Ingrese su tercer valor: \n");
+    if (scanf("%f", &n3) != 1) {
+    	printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros");
+    	return 1;
+	}    
+    printf("Su resultado es: %.2f \n", n1 + n2 + n3);
     getch();
     return 0;
 }

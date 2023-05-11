@@ -1,3 +1,11 @@
+/* 
+A) Necesito calcular la diagonal principal, el perímetro y la superficio de un rectángulo. 
+B) Solicitar ambos números.
+C) Variable float que almacena los números, y otra que almacene la hipotenusa ya calculada. Devolver el calculo desde printf();
+D) Compilar. Ejecutar
+E) Validar.
+*/
+
 #include <stdio.h>
 #include <conio.h>
 

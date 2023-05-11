@@ -1,3 +1,11 @@
+/* 
+A) Necesito ingresar el valor de la hora y el tiempo trabajado por un comerciante y calcular su sueldo.
+B) Solicitar ambos valores.
+C) Variable float que almacena los valores, devolver el calculo desde printf();
+D) Compilar. Ejecutar
+E) Validar.
+*/
+
 #include <stdio.h>
 #include <conio.h>
 #include <locale.h>
