@@ -15,19 +15,10 @@ int main() {
     printf("Ingrese un n\xA3mero entero a evaluar: \n");
     if (scanf("%f", &n) != 1) {
     	printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros");
+        getch();
     	return 1;
 	}
     printf("Su n\xA3mero es: %.2f \n Anterior: %.2f / Posterior: %.2f", n, n-1, n+1);
     getch();
     return 0;
 }
-
-/*
-á –> \xA0; 
-é –> \x82; 
-í –> \xA1; 
-ó –> \xA2; 
-ú –> \xA3; 
-ñ –> \xA4; 
-Ñ –> \xA5;0
-*/

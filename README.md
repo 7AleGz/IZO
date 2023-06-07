@@ -1,0 +1,132 @@
+
+# Lógica y Estructura de Datos - IZO (2023)
+
+Repositorio que incluye las actividades realizadas en la materia "Lógica y Estructura de Datos" de la tecnicatura en Desarrollo de Software dictada en el Instituto Superior Zona Oeste (ISPI 9045).
+
+
+
+
+## Actividades
+
+
+### Clase 21/04/23
+
+- Ejercicio 1
+
+Un automóvil realiza su carga de combustible. El propietario conoce su autonomía y ésta no cambia. Por ejemplo 14km/l. Realizar un programa el cual ingresando el precio por litro de combustible y la cantidad que cargo, calcule el IMPORTE a pagar y los KILOMETROS a recorrer con dicha carga. [Ver Código](https://github.com/7AleGz/IZO/blob/master/1-%20Ejercicios%2021.4/app1.c).
+
+- Ejercicio 2
+
+Una inmobiliaria realiza cotizaciones sobre un loteo. Se tiene de los mismos los metros de frente y el largo. El precio del metro cuadrado está en dólares u$s50 y no cambia. 
+Realizar un programa el cual ingresando la cotización del dólar, y las medidas conocidas del lote, calcule el área del mismo y el importe en dólares y en pesos al momento de la cotización. [Ver Código](https://github.com/7AleGz/IZO/blob/master/1-%20Ejercicios%2021.4/app2.c).
+
+### Clase 05/05/23
+
+- Ejercicio 1
+
+Ingresando un número entero, mostrar anterior y posterior. [Ver Código](https://).
+
+- Ejercicio 2
+
+Ingresando dos despósitos, mostrar la suma de ambos más un interés del 20%. [Ver Código](https://).
+
+- Ejercicio 3
+
+Calcular el área de círculo en función del radio ingresado. [Ver Código](https://).
+
+- Ejercicio 1 P1
+
+Ingresar dos valores enteros, sumarlos e imprimir esta suma. [Ver Código](https://).
+
+- Ejercicio 2 P1
+
+Ingresar tres valores, sumarlos e imprimir esta suma. [Ver Código](https://).
+
+- Ejercicio 3 P1
+
+Ingresar los lados de un triángulo calcular su perímetro e imprimirlo. [Ver Código](https://).
+
+- Ejercicio 4 P1
+
+Solicitar ingresar dos lados de un triángulo rectángulo y calcular, la hipotenusa, el perímetro, la superficie (área). Imprima los resultados de las operaciones solicitadas. [Ver Código](https://).
+
+- Ejercicio 5 P1
+
+El usuario debe poder ingresar los lados de un rectángulo y el programa calcula con esos datos la diagonal principal del rectángulo, superficie y perímetro. Mostrar al usuario los resultado. [Ver Código](https://).
+
+- Ejercicio 6 P1
+
+Ingresar dos valores, calcular su suma, su producto y la resta del 1ro menos el 2do valor ingresado, imprimir los resultados. [Ver Código](https://).
+
+- Ejercicio 7 P1
+
+Ingresar el valor de la hora y el tiempo trabajado por un comerciante, calcular su sueldo e imprimirlo. [Ver Código](https://).
+
+- Ejercicio 8 P1
+
+Ingresar el tiempo trabajado por un contador y considerando que el valor de la hora es de 800 pesos, calcular su sueldo e imprimirlo. [Ver Código](https://).
+
+### Clase 12/05/23
+
+- Ejercicio 1:
+
+  Ingresar tres notas, mostrar el promedio de las mismas y si el alumno aprobó o debe recuperar. [Ver Código]().
+
+- Ejercicio 2:
+
+  Mostrar un menú de tres opciones al usuario:
+
+  - La primera debe mostrar datos de alumnos del IZO al usuario.
+  - La segunda debe pedir dos números y mostrar el mayor de ellos.
+  - La tercera debe finalizar el programa.
+
+  [Ver Código]().
+
+
+### Clase 02/06/23
+Ejercicios WHILE
+
+- Ejercicio 1 
+Ingresar un conjunto de números reales positivo. Para finalizar la entrada de datos ingresar un cero. Determinar e informar la cantidad de números ingresados.
+
+- Ejercicio 2 
+Dado un conjunto de números naturales, determinar cuántos de ellos son mayores o iguales que 100. Un número igual a cero indica fin de datos.
+
+- Ejercicio 3 
+Realizar un proceso que confeccione una factura de compra, ingresando el código de artículo, la cantidad comprada del mismo y su precio unitario. Proponer un fin de datos.
+
+- Ejercicio 4
+Se tienen como datos los importes de todas las facturas correspondientes al mes que acaba de finalizar de un comercio (no se sabe cuántas son). 
+
+Se desea conocer:
+
+  - Cuántas facturas se realizaron.
+  - Importe promedio de las mismas.
+  - Cuántos son los importes que superan los 3000 pesos.
+
+
+#
+Ejercicios WHILE
+
+- Ejercicio 1 
+Realizar un programa que tome un valor entero y verificar que el mismo se encuentre entre 1 y 10 incluidos.
+
+- Ejercicio 2 
+Se dispone de una planilla con los sueldos a pagar a los empleados de una empresa. 
+
+Se desea conocer cuál es el sueldo promedio que se debe abonar. Como no se conoce la cantidad de empleados, luego de ingresar cada sueldo deberá aparecer en la pantalla el siguiente cartel: “¿Continua o Finaliza? (C/F)”, el operador entonces deberá ingresar una “C” o una “F”, según quiera continuar ingresando datos o no.
+
+- Ejercicio 3 
+Dada una lista de espera de pasajeros de un micro, donde se indica el peso de equipaje de cada uno de ellos, deberá determinarse cuantas personas viajarán en el mismo de acuerdo a las siguientes condiciones:
+
+
+  -  El peso del equipaje total no debe superar los 3500 kg.
+
+
+  - No se permiten pasajeros de pie.
+
+
+  - Para lo cual se tiene además los siguientes datos del micro: número del mismo y cantidad de asientos que posee el mismo.
+
+
+  - Exhibir el número del micro, la cantidad de pasajeros y el peso del equipaje.

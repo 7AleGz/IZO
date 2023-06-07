@@ -8,20 +8,26 @@ E) Validar.
 
 #include <stdio.h>
 #include <conio.h>
-#include <locale.h>
+
+void clear() {
+    while (getchar() != '\n');
+}
 
 int main() {
-    setlocale(LC_ALL, " ");
     float pxh, hat;
-    printf("Programa para calcular Salario áéíóú \n");
+    printf("Programa para calcular Salario \n");
     printf("Ingrese el valor de la hora: $");
-    if(scanf("%f", &pxh) != 1) {
-        printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros");
+    if (scanf("%f", &pxh) != 1) {
+        printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros...");
+        getch();
     	return 1;
     }
+    clear();
+
     printf("Ingrese las horas a trabajar: ");
-    if(scanf("%f", &hat) != 1) {
-        printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros");
+    if (scanf("%f", &hat) != 1) {
+        printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros...");
+        getch();
     	return 1;
     }
     printf("El salario va a ser de: $%.2f", pxh * hat);

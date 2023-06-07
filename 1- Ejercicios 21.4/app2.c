@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <conio.h>
-#include <wchar.h>
-#include <locale.h>
-#include <stdlib.h>
+
+void clear() {
+    while (getchar() != '\n');
+}
 
 #define PM2 50.0 // precio por metro cuadrado
 
@@ -10,11 +11,27 @@ int main() {
     float length, front, m2, usd, pfusd, pfars;
     printf("Programa de cotizaci\xA2n de Lotes \n");
     printf("Ingrese la medida de frente en metros: \n");
-    scanf("%f",&front);
+    if (scanf("%f", &front) != 1) {
+    	printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros...");
+        getch();
+    	return 1;
+	}
+    clear();
+
     printf("Ingrese la medida de largo en metros: \n");
-    scanf("%f",&length);
+    if (scanf("%f", &length) != 1) {
+    	printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros...");
+        getch();
+    	return 1;
+	}
+    clear();
+
     printf("Precio del d\xA2lar: \n");
-    scanf("%f",&usd);
+    if (scanf("%f", &usd) != 1) {
+    	printf("No podes ingresar una letra o s\xA1mbolo, solo n\xA3meros...");
+        getch();
+    	return 1;
+	}
     usd = (usd == 0) ? 1 : usd; // Si la conversión de dólares a pesos es $0 va a mantener el precio en pesos.
     m2 = front * length; // Calcula el metro cuadrado.
     pfusd = m2 * PM2; // Calcula cuanto duele.
