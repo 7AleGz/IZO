@@ -24,53 +24,53 @@ Realizar un programa el cual ingresando la cotización del dólar, y las medidas
 
 - Ejercicio 1
 
-Ingresando un número entero, mostrar anterior y posterior. [Ver Código](https://).
+Ingresando un número entero, mostrar anterior y posterior. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/app1.c).
 
 - Ejercicio 2
 
-Ingresando dos despósitos, mostrar la suma de ambos más un interés del 20%. [Ver Código](https://).
+Ingresando dos despósitos, mostrar la suma de ambos más un interés del 20%. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/app2.c).
 
 - Ejercicio 3
 
-Calcular el área de círculo en función del radio ingresado. [Ver Código](https://).
+Calcular el área de círculo en función del radio ingresado. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/app3.c).
 
 - Ejercicio 1 P1
 
-Ingresar dos valores enteros, sumarlos e imprimir esta suma. [Ver Código](https://).
+Ingresar dos valores enteros, sumarlos e imprimir esta suma. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app1.c).
 
 - Ejercicio 2 P1
 
-Ingresar tres valores, sumarlos e imprimir esta suma. [Ver Código](https://).
+Ingresar tres valores, sumarlos e imprimir esta suma. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app2.c).
 
 - Ejercicio 3 P1
 
-Ingresar los lados de un triángulo calcular su perímetro e imprimirlo. [Ver Código](https://).
+Ingresar los lados de un triángulo calcular su perímetro e imprimirlo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app3.c).
 
 - Ejercicio 4 P1
 
-Solicitar ingresar dos lados de un triángulo rectángulo y calcular, la hipotenusa, el perímetro, la superficie (área). Imprima los resultados de las operaciones solicitadas. [Ver Código](https://).
+Solicitar ingresar dos lados de un triángulo rectángulo y calcular, la hipotenusa, el perímetro, la superficie (área). Imprima los resultados de las operaciones solicitadas. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app4.c).
 
 - Ejercicio 5 P1
 
-El usuario debe poder ingresar los lados de un rectángulo y el programa calcula con esos datos la diagonal principal del rectángulo, superficie y perímetro. Mostrar al usuario los resultado. [Ver Código](https://).
+El usuario debe poder ingresar los lados de un rectángulo y el programa calcula con esos datos la diagonal principal del rectángulo, superficie y perímetro. Mostrar al usuario los resultado. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app5.c).
 
 - Ejercicio 6 P1
 
-Ingresar dos valores, calcular su suma, su producto y la resta del 1ro menos el 2do valor ingresado, imprimir los resultados. [Ver Código](https://).
+Ingresar dos valores, calcular su suma, su producto y la resta del 1ro menos el 2do valor ingresado, imprimir los resultados. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app6.c).
 
 - Ejercicio 7 P1
 
-Ingresar el valor de la hora y el tiempo trabajado por un comerciante, calcular su sueldo e imprimirlo. [Ver Código](https://).
+Ingresar el valor de la hora y el tiempo trabajado por un comerciante, calcular su sueldo e imprimirlo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app7.c).
 
 - Ejercicio 8 P1
 
-Ingresar el tiempo trabajado por un contador y considerando que el valor de la hora es de 800 pesos, calcular su sueldo e imprimirlo. [Ver Código](https://).
+Ingresar el tiempo trabajado por un contador y considerando que el valor de la hora es de 800 pesos, calcular su sueldo e imprimirlo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app8.c).
 
 ### Clase 12/05/23
 
 - Ejercicio 1:
 
-  Ingresar tres notas, mostrar el promedio de las mismas y si el alumno aprobó o debe recuperar. [Ver Código]().
+  Ingresar tres notas, mostrar el promedio de las mismas y si el alumno aprobó o debe recuperar. [Ver Código](https://github.com/7AleGz/IZO/blob/master/3-%20Ejercicios%2012.05/appSwitch.c).
 
 - Ejercicio 2:
 
@@ -80,7 +80,7 @@ Ingresar el tiempo trabajado por un contador y considerando que el valor de la h
   - La segunda debe pedir dos números y mostrar el mayor de ellos.
   - La tercera debe finalizar el programa.
 
-  [Ver Código]().
+  [Ver Código](https://github.com/7AleGz/IZO/blob/master/3-%20Ejercicios%2012.05/appSwitch.c).
 
 
 ### Clase 02/06/23
