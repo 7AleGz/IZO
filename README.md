@@ -13,12 +13,12 @@ Repositorio que incluye las actividades realizadas en la materia "Lógica y Estr
 
 - Ejercicio 1
 
-Un automóvil realiza su carga de combustible. El propietario conoce su autonomía y ésta no cambia. Por ejemplo 14km/l. Realizar un programa el cual ingresando el precio por litro de combustible y la cantidad que cargo, calcule el IMPORTE a pagar y los KILOMETROS a recorrer con dicha carga. [Ver Código](https://github.com/7AleGz/IZO/blob/master/1-%20Ejercicios%2021.4/app1.c).
+Un automóvil realiza su carga de combustible. El propietario conoce su autonomía y ésta no cambia. Por ejemplo 14km/l. Realizar un programa el cual ingresando el precio por litro de combustible y la cantidad que cargo, calcule el IMPORTE a pagar y los KILOMETROS a recorrer con dicha carga. [Ver Código](https://github.com/7AleGz/IZO/blob/master/1-%20Ejercicios%2021.04/app1.c).
 
 - Ejercicio 2
 
 Una inmobiliaria realiza cotizaciones sobre un loteo. Se tiene de los mismos los metros de frente y el largo. El precio del metro cuadrado está en dólares u$s50 y no cambia. 
-Realizar un programa el cual ingresando la cotización del dólar, y las medidas conocidas del lote, calcule el área del mismo y el importe en dólares y en pesos al momento de la cotización. [Ver Código](https://github.com/7AleGz/IZO/blob/master/1-%20Ejercicios%2021.4/app2.c).
+Realizar un programa el cual ingresando la cotización del dólar, y las medidas conocidas del lote, calcule el área del mismo y el importe en dólares y en pesos al momento de la cotización. [Ver Código](https://github.com/7AleGz/IZO/blob/master/1-%20Ejercicios%2021.04/app2.c).
 
 ### Clase 05/05/23
 
@@ -36,35 +36,35 @@ Calcular el área de círculo en función del radio ingresado. [Ver Código](htt
 
 - Ejercicio 1 P1
 
-Ingresar dos valores enteros, sumarlos e imprimir esta suma. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app1.c).
+Ingresar dos valores enteros, sumarlos e imprimir esta suma. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Práctica%20(HW)/app1.c).
 
 - Ejercicio 2 P1
 
-Ingresar tres valores, sumarlos e imprimir esta suma. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app2.c).
+Ingresar tres valores, sumarlos e imprimir esta suma. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Práctica%20(HW)/app2.c).
 
 - Ejercicio 3 P1
 
-Ingresar los lados de un triángulo calcular su perímetro e imprimirlo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app3.c).
+Ingresar los lados de un triángulo calcular su perímetro e imprimirlo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Práctica%20(HW)/app3.c).
 
 - Ejercicio 4 P1
 
-Solicitar ingresar dos lados de un triángulo rectángulo y calcular, la hipotenusa, el perímetro, la superficie (área). Imprima los resultados de las operaciones solicitadas. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app4.c).
+Solicitar ingresar dos lados de un triángulo rectángulo y calcular, la hipotenusa, el perímetro, la superficie (área). Imprima los resultados de las operaciones solicitadas. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Práctica%20(HW)/app4.c).
 
 - Ejercicio 5 P1
 
-El usuario debe poder ingresar los lados de un rectángulo y el programa calcula con esos datos la diagonal principal del rectángulo, superficie y perímetro. Mostrar al usuario los resultado. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app5.c).
+El usuario debe poder ingresar los lados de un rectángulo y el programa calcula con esos datos la diagonal principal del rectángulo, superficie y perímetro. Mostrar al usuario los resultado. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Práctica%20(HW)/app5.c).
 
 - Ejercicio 6 P1
 
-Ingresar dos valores, calcular su suma, su producto y la resta del 1ro menos el 2do valor ingresado, imprimir los resultados. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app6.c).
+Ingresar dos valores, calcular su suma, su producto y la resta del 1ro menos el 2do valor ingresado, imprimir los resultados. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Práctica%20(HW)/app6.c).
 
 - Ejercicio 7 P1
 
-Ingresar el valor de la hora y el tiempo trabajado por un comerciante, calcular su sueldo e imprimirlo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app7.c).
+Ingresar el valor de la hora y el tiempo trabajado por un comerciante, calcular su sueldo e imprimirlo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Práctica%20(HW)/app7.c).
 
 - Ejercicio 8 P1
 
-Ingresar el tiempo trabajado por un contador y considerando que el valor de la hora es de 800 pesos, calcular su sueldo e imprimirlo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Practice%20(HW)/app8.c).
+Ingresar el tiempo trabajado por un contador y considerando que el valor de la hora es de 800 pesos, calcular su sueldo e imprimirlo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/Práctica%20(HW)/app8.c).
 
 ### Clase 12/05/23
 
