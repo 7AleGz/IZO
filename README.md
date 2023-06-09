@@ -87,13 +87,13 @@ Ingresar el tiempo trabajado por un contador y considerando que el valor de la h
 Ejercicios WHILE
 
 - Ejercicio 1 
-Ingresar un conjunto de números reales positivo. Para finalizar la entrada de datos ingresar un cero. Determinar e informar la cantidad de números ingresados.
+Ingresar un conjunto de números reales positivo. Para finalizar la entrada de datos ingresar un cero. Determinar e informar la cantidad de números ingresados. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_1.c).
 
 - Ejercicio 2 
-Dado un conjunto de números naturales, determinar cuántos de ellos son mayores o iguales que 100. Un número igual a cero indica fin de datos.
+Dado un conjunto de números naturales, determinar cuántos de ellos son mayores o iguales que 100. Un número igual a cero indica fin de datos. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_2.c).
 
 - Ejercicio 3 
-Realizar un proceso que confeccione una factura de compra, ingresando el código de artículo, la cantidad comprada del mismo y su precio unitario. Proponer un fin de datos.
+Realizar un proceso que confeccione una factura de compra, ingresando el código de artículo, la cantidad comprada del mismo y su precio unitario. Proponer un fin de datos. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_3.c).
 
 - Ejercicio 4
 Se tienen como datos los importes de todas las facturas correspondientes al mes que acaba de finalizar de un comercio (no se sabe cuántas son). 
@@ -101,20 +101,21 @@ Se tienen como datos los importes de todas las facturas correspondientes al mes 
 Se desea conocer:
 
   - Cuántas facturas se realizaron.
-  - Importe promedio de las mismas.
-  - Cuántos son los importes que superan los 3000 pesos.
 
+  - Importe promedio de las mismas.
+
+  - Cuántos son los importes que superan los 3000 pesos.
+[Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_4.c).
 
 #
-Ejercicios WHILE
+Ejercicios DO WHILE
 
 - Ejercicio 1 
-Realizar un programa que tome un valor entero y verificar que el mismo se encuentre entre 1 y 10 incluidos.
+Realizar un programa que tome un valor entero y verificar que el mismo se encuentre entre 1 y 10 incluidos. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_doWhile_1.c).
 
 - Ejercicio 2 
 Se dispone de una planilla con los sueldos a pagar a los empleados de una empresa. 
-
-Se desea conocer cuál es el sueldo promedio que se debe abonar. Como no se conoce la cantidad de empleados, luego de ingresar cada sueldo deberá aparecer en la pantalla el siguiente cartel: “¿Continua o Finaliza? (C/F)”, el operador entonces deberá ingresar una “C” o una “F”, según quiera continuar ingresando datos o no.
+Se desea conocer cuál es el sueldo promedio que se debe abonar. Como no se conoce la cantidad de empleados, luego de ingresar cada sueldo deberá aparecer en la pantalla el siguiente cartel: “¿Continua o Finaliza? (C/F)”, el operador entonces deberá ingresar una “C” o una “F”, según quiera continuar ingresando datos o no. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_doWhile_2.c).
 
 - Ejercicio 3 
 Dada una lista de espera de pasajeros de un micro, donde se indica el peso de equipaje de cada uno de ellos, deberá determinarse cuantas personas viajarán en el mismo de acuerdo a las siguientes condiciones:
@@ -130,3 +131,5 @@ Dada una lista de espera de pasajeros de un micro, donde se indica el peso de eq
 
 
   - Exhibir el número del micro, la cantidad de pasajeros y el peso del equipaje.
+
+  [Ver Código]().
