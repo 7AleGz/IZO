@@ -98,14 +98,16 @@ Realizar un proceso que confeccione una factura de compra, ingresando el código
 - Ejercicio 4
 Se tienen como datos los importes de todas las facturas correspondientes al mes que acaba de finalizar de un comercio (no se sabe cuántas son). 
 
-Se desea conocer:
 
-  - Cuántas facturas se realizaron.
+  -  Cuántas facturas se realizaron.
+
 
   - Importe promedio de las mismas.
 
+
   - Cuántos son los importes que superan los 3000 pesos.
-[Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_4.c).
+
+  [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_4.c).
 
 #
 Ejercicios DO WHILE
@@ -133,3 +135,23 @@ Dada una lista de espera de pasajeros de un micro, donde se indica el peso de eq
   - Exhibir el número del micro, la cantidad de pasajeros y el peso del equipaje.
 
   [Ver Código]().
+
+
+### Clase 09/06/23
+Ejercicios FOR
+
+- Ejercicio 1
+
+  [Ver código](https://github.com/7AleGz/IZO/blob/master/6-%20Ejercicios%2009.06/app_for_1.c)
+
+- Ejercicio 2
+
+  [Ver código](https://github.com/7AleGz/IZO/blob/master/6-%20Ejercicios%2009.06/app_for_2.c)
+
+- Ejercicio 3
+
+  [Ver código](https://github.com/7AleGz/IZO/blob/master/6-%20Ejercicios%2009.06/app_for_3.c)
+
+- Ejercicio 4
+
+  [Ver código](https://github.com/7AleGz/IZO/blob/master/6-%20Ejercicios%2009.06/app_for_4.c)
