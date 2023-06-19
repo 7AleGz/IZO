@@ -1,19 +1,19 @@
 
 # Lógica y Estructura de Datos - IZO (2023)
 
-Repositorio que incluye las actividades realizadas en la materia "Lógica y Estructura de Datos" de la tecnicatura en Desarrollo de Software dictada en el Instituto Superior Zona Oeste (ISPI 9045).
+Repositorio que incluye las actividades realizadas en la materia "Lógica y Estructura de Datos" de la Tecnicatura en Desarrollo de Software dictada en el Instituto Superior Zona Oeste (ISPI 9045).
 
 
 
 
-## Actividades
+# Actividades
 
 
 ### Clase 21/04/23
 
 - Ejercicio 1
 
-Un automóvil realiza su carga de combustible. El propietario conoce su autonomía y ésta no cambia. Por ejemplo 14km/l. Realizar un programa el cual ingresando el precio por litro de combustible y la cantidad que cargo, calcule el IMPORTE a pagar y los KILOMETROS a recorrer con dicha carga. [Ver Código](https://github.com/7AleGz/IZO/blob/master/1-%20Ejercicios%2021.04/app1.c).
+Un automóvil realiza su carga de combustible. El propietario conoce su autonomía y ésta no cambia. Por ejemplo 14km/l. Realizar un programa el cual ingresando el precio por litro de combustible y la cantidad que cargo, calcule el IMPORTE a pagar y los KILÓMETROS a recorrer con dicha carga. [Ver Código](https://github.com/7AleGz/IZO/blob/master/1-%20Ejercicios%2021.04/app1.c).
 
 - Ejercicio 2
 
@@ -28,7 +28,7 @@ Ingresando un número entero, mostrar anterior y posterior. [Ver Código](https:
 
 - Ejercicio 2
 
-Ingresando dos despósitos, mostrar la suma de ambos más un interés del 20%. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/app2.c).
+Ingresando dos depósitos, mostrar la suma de ambos más un interés del 20%. [Ver Código](https://github.com/7AleGz/IZO/blob/master/2-%20Ejercicios%2005.05/app2.c).
 
 - Ejercicio 3
 
@@ -165,7 +165,7 @@ Ejercicios FOR
   [Ver código](https://github.com/7AleGz/IZO/blob/master/6-%20Ejercicios%2009.06/app_for_4.c)
 
 
-### Clase 02/06/23
+### Clase 16/06/23
 Ejercicios FOR, WHILE
 
 - Ejercicio 1 
