@@ -117,17 +117,21 @@ Ejercicios WHILE
 Ejercicios DO WHILE
 
 - Ejercicio 1 
-Realizar un programa que tome un valor entero y verificar que el mismo se encuentre entre 1 y 10 incluidos. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_doWhile_1.c).
+    
+    Realizar un programa que tome un valor entero y verificar que el mismo se encuentre entre 1 y 10 incluidos. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_doWhile_1.c).
 
 - Ejercicio 2 
-Se dispone de una planilla con los sueldos a pagar a los empleados de una empresa. 
-Se desea conocer cuál es el sueldo promedio que se debe abonar. Como no se conoce la cantidad de empleados, luego de ingresar cada sueldo deberá aparecer en la pantalla el siguiente cartel: “¿Continua o Finaliza? (C/F)”, el operador entonces deberá ingresar una “C” o una “F”, según quiera continuar ingresando datos o no. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_doWhile_2.c).
+
+    Se dispone de una planilla con los sueldos a pagar a los empleados de una empresa. 
+    
+    Se desea conocer cuál es el sueldo promedio que se debe abonar. Como no se conoce la cantidad de empleados, luego de ingresar cada sueldo deberá aparecer en la pantalla el siguiente cartel: “¿Continua o Finaliza? (C/F)”, el operador entonces deberá ingresar una “C” o una “F”, según quiera continuar ingresando datos o no. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_doWhile_2.c).
 
 - Ejercicio 3 
-Dada una lista de espera de pasajeros de un micro, donde se indica el peso de equipaje de cada uno de ellos, deberá determinarse cuantas personas viajarán en el mismo de acuerdo a las siguientes condiciones:
+    
+    Dada una lista de espera de pasajeros de un micro, donde se indica el peso de equipaje de cada uno de ellos, deberá determinarse cuantas personas viajarán en el mismo de acuerdo a las siguientes condiciones:
 
 
--  El peso del equipaje total no debe superar los 3500 kg.
+    -  El peso del equipaje total no debe superar los 3500 kg.
 
 
   - No se permiten pasajeros de pie.
