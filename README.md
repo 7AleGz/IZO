@@ -142,7 +142,7 @@ Ejercicios DO WHILE
 
   - Exhibir el número del micro, la cantidad de pasajeros y el peso del equipaje.
 
-  [Ver Código]().
+  [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_doWhile_3.c).
 
 
 ### Clase 09/06/23
