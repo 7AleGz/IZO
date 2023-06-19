@@ -87,19 +87,23 @@ Ingresar el tiempo trabajado por un contador y considerando que el valor de la h
 Ejercicios WHILE
 
 - Ejercicio 1 
-Ingresar un conjunto de números reales positivo. Para finalizar la entrada de datos ingresar un cero. Determinar e informar la cantidad de números ingresados. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_1.c).
+    
+    Ingresar un conjunto de números reales positivo. Para finalizar la entrada de datos ingresar un cero. Determinar e informar la cantidad de números ingresados. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_1.c).
 
 - Ejercicio 2 
-Dado un conjunto de números naturales, determinar cuántos de ellos son mayores o iguales que 100. Un número igual a cero indica fin de datos. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_2.c).
+    
+    Dado un conjunto de números naturales, determinar cuántos de ellos son mayores o iguales que 100. Un número igual a cero indica fin de datos. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_2.c).
 
 - Ejercicio 3 
-Realizar un proceso que confeccione una factura de compra, ingresando el código de artículo, la cantidad comprada del mismo y su precio unitario. Proponer un fin de datos. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_3.c).
+    
+    Realizar un proceso que confeccione una factura de compra, ingresando el código de artículo, la cantidad comprada del mismo y su precio unitario. Proponer un fin de datos. [Ver Código](https://github.com/7AleGz/IZO/blob/master/5-%20Ejercicios%2002.06/app_while_3.c).
 
 - Ejercicio 4
-Se tienen como datos los importes de todas las facturas correspondientes al mes que acaba de finalizar de un comercio (no se sabe cuántas son). 
+    
+    Se tienen como datos los importes de todas las facturas correspondientes al mes que acaba de finalizar de un comercio (no se sabe cuántas son). 
 
 
-  -  Cuántas facturas se realizaron.
+    -  Cuántas facturas se realizaron.
 
 
   - Importe promedio de las mismas.
@@ -123,7 +127,7 @@ Se desea conocer cuál es el sueldo promedio que se debe abonar. Como no se cono
 Dada una lista de espera de pasajeros de un micro, donde se indica el peso de equipaje de cada uno de ellos, deberá determinarse cuantas personas viajarán en el mismo de acuerdo a las siguientes condiciones:
 
 
-  -  El peso del equipaje total no debe superar los 3500 kg.
+-  El peso del equipaje total no debe superar los 3500 kg.
 
 
   - No se permiten pasajeros de pie.
@@ -155,3 +159,32 @@ Ejercicios FOR
 - Ejercicio 4
 
   [Ver código](https://github.com/7AleGz/IZO/blob/master/6-%20Ejercicios%2009.06/app_for_4.c)
+
+
+### Clase 02/06/23
+Ejercicios FOR, WHILE
+
+- Ejercicio 1 
+
+    Se tiene la cantidad de alumnos de un curso 
+
+    - Debe ingresarla el usuario
+
+    - Ingresar la edad de cada estudiante 
+
+    - Al finalizar, mostrar el promedio de edad del curso.
+
+[Ver Código](https://github.com/7AleGz/IZO/blob/master/7-%20Ejercicios%2016.06/app1.c).
+
+- Ejercicio 2 
+
+    Un rapipago ingresa el valor de las facturas cobradas en el día. Su comisión es el 3% de lo recaudado
+
+    - Mostral al final de la carga (0 = Salir)
+
+        - Total de dinero en caja
+        - Neto a pagar
+        - Comisión generada 
+
+[Ver Código](https://github.com/7AleGz/IZO/blob/master/7-%20Ejercicios%2016.06/app2.c).
+
