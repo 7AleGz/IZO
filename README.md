@@ -192,3 +192,6 @@ Ejercicios FOR, WHILE
 
 [Ver Código](https://github.com/7AleGz/IZO/blob/master/7-%20Ejercicios%2016.06/app2.c).
 
+### Clase 23/03/23
+- Ejercicio
+Crear programa que permita la creación de tableros de ajedrez. [Ver Código](https://github.com/7AleGz/IZO/blob/master/8-%20Ejercicios%2023.06/app.c).
