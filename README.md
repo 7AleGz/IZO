@@ -192,6 +192,20 @@ Ejercicios FOR, WHILE
 
 [Ver Código](https://github.com/7AleGz/IZO/blob/master/7-%20Ejercicios%2016.06/app2.c).
 
-### Clase 23/03/23
+### Clase 23/06/23
 - Ejercicio
 Crear programa que permita la creación de tableros de ajedrez. [Ver Código](https://github.com/7AleGz/IZO/blob/master/8-%20Ejercicios%2023.06/app.c).
+
+### Clase 30/06/23
+- Ejercicio
+Crear programa que permita ver el total a pagar al momento de comprar dólares. El precio de el dólar se preestablece mediante un archivo externo. [Ver Código](https://github.com/7AleGz/IZO/blob/master/9-%20Ejercicios%2030.06/app.c).
+
+### Clase 07/07/23
+- Parcial
+Crear programa que permita ver el total a pagar al momento de pagar el peaje. El precio de el peaje se preestablece mediante un archivo externo por categorias: 
+
+    Autos = 100 por eje.
+
+    Camiones = 200 por eje.
+    
+[Ver Código](https://github.com/7AleGz/IZO/blob/master/10-%20Parcial%2007.07/app.c).
