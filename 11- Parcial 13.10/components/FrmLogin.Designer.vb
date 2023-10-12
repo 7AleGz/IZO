@@ -32,7 +32,7 @@ Partial Class FrmLogin
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(120, 71)
+        Me.Label1.Location = New System.Drawing.Point(263, 55)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(43, 13)
         Me.Label1.TabIndex = 0
@@ -41,7 +41,7 @@ Partial Class FrmLogin
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(123, 119)
+        Me.Label2.Location = New System.Drawing.Point(255, 123)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(61, 13)
         Me.Label2.TabIndex = 1
@@ -49,22 +49,22 @@ Partial Class FrmLogin
         '
         'psw
         '
-        Me.psw.Location = New System.Drawing.Point(258, 119)
+        Me.psw.Location = New System.Drawing.Point(235, 139)
         Me.psw.Name = "psw"
         Me.psw.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.psw.Size = New System.Drawing.Size(100, 20)
-        Me.psw.TabIndex = 2
+        Me.psw.TabIndex = 1
         '
         'user
         '
-        Me.user.Location = New System.Drawing.Point(258, 63)
+        Me.user.Location = New System.Drawing.Point(235, 71)
         Me.user.Name = "user"
         Me.user.Size = New System.Drawing.Size(100, 20)
-        Me.user.TabIndex = 3
+        Me.user.TabIndex = 0
         '
         'btnLogin
         '
-        Me.btnLogin.Location = New System.Drawing.Point(515, 92)
+        Me.btnLogin.Location = New System.Drawing.Point(245, 219)
         Me.btnLogin.Name = "btnLogin"
         Me.btnLogin.Size = New System.Drawing.Size(75, 23)
         Me.btnLogin.TabIndex = 4
@@ -75,7 +75,7 @@ Partial Class FrmLogin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(644, 263)
+        Me.ClientSize = New System.Drawing.Size(566, 254)
         Me.Controls.Add(Me.btnLogin)
         Me.Controls.Add(Me.user)
         Me.Controls.Add(Me.psw)
@@ -83,7 +83,7 @@ Partial Class FrmLogin
         Me.Controls.Add(Me.Label1)
         Me.Name = "FrmLogin"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "FrmLogin"
+        Me.Text = "Inicio de sesión"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

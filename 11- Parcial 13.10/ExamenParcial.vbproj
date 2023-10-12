@@ -73,28 +73,34 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmLogin.Designer.vb">
+    <Compile Include="components\ModalUSDValue.Designer.vb">
+      <DependentUpon>ModalUSDValue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="components\ModalUSDValue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="components\FrmLogin.Designer.vb">
       <DependentUpon>FrmLogin.vb</DependentUpon>
     </Compile>
-    <Compile Include="FrmLogin.vb">
+    <Compile Include="components\FrmLogin.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmMain.Designer.vb">
+    <Compile Include="components\FrmMain.Designer.vb">
       <DependentUpon>FrmMain.vb</DependentUpon>
     </Compile>
-    <Compile Include="FrmMain.vb">
+    <Compile Include="components\FrmMain.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="modalCalculo.Designer.vb">
-      <DependentUpon>modalCalculo.vb</DependentUpon>
+    <Compile Include="components\FrmCalculation.Designer.vb">
+      <DependentUpon>FrmCalculation.vb</DependentUpon>
     </Compile>
-    <Compile Include="modalCalculo.vb">
+    <Compile Include="components\FrmCalculation.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="modalCasa.Designer.vb">
-      <DependentUpon>modalCasa.vb</DependentUpon>
+    <Compile Include="components\FrmConvert.Designer.vb">
+      <DependentUpon>FrmConvert.vb</DependentUpon>
     </Compile>
-    <Compile Include="modalCasa.vb">
+    <Compile Include="components\FrmConvert.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -115,17 +121,20 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FrmLogin.resx">
+    <EmbeddedResource Include="components\ModalUSDValue.resx">
+      <DependentUpon>ModalUSDValue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="components\FrmLogin.resx">
       <DependentUpon>FrmLogin.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmMain.resx">
+    <EmbeddedResource Include="components\FrmMain.resx">
       <DependentUpon>FrmMain.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="modalCalculo.resx">
-      <DependentUpon>modalCalculo.vb</DependentUpon>
+    <EmbeddedResource Include="components\FrmCalculation.resx">
+      <DependentUpon>FrmCalculation.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="modalCasa.resx">
-      <DependentUpon>modalCasa.vb</DependentUpon>
+    <EmbeddedResource Include="components\FrmConvert.resx">
+      <DependentUpon>FrmConvert.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
