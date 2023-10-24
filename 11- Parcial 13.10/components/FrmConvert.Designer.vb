@@ -146,7 +146,7 @@ Partial Class FrmConvert
         Me.Controls.Add(Me.BtnClose)
         Me.Name = "FrmConvert"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Casa de cambio"
+        Me.Text = "g"
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.ResumeLayout(False)
         Me.PerformLayout()

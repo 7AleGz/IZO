@@ -1,4 +1,4 @@
-﻿Public Class FrmConvert
+Public Class FrmConvert
     Private Sub BtnClose_Click(sender As Object, e As EventArgs) Handles BtnClose.Click
         Me.Close()
         FrmMain.Show()
@@ -16,7 +16,7 @@
             Dim resultado As Double = USDValue * cantidadCompraUSD
             Dim arsPrice As Double = Math.Round(resultado, 2)
             arsCant.Text = arsPrice.ToString()
-            My.Computer.FileSystem.WriteAllText("C:\Users\Ale\source\repos\IZO\11- Parcial 13.10/data/history.txt",
+            My.Computer.FileSystem.WriteAllText("..\..\data\history.txt",
             formatDate & " " & formatHour & " ARS $" & resultado & vbCrLf, True)
         ElseIf Double.TryParse(arsCant.Text, cantidadCompraARS) Then
             Dim dateNow As DateTime = DateTime.Now
@@ -25,7 +25,7 @@
             Dim resultado As Double = cantidadCompraARS / USDValue
             Dim usdPrice As Double = Math.Round(resultado, 2)
             usdCant.Text = usdPrice.ToString()
-            My.Computer.FileSystem.WriteAllText("C:\Users\Ale\source\repos\IZO\11- Parcial 13.10/data/history.txt",
+            My.Computer.FileSystem.WriteAllText("..\..\data\history.txt",
             formatDate & " " & formatHour & " USD $" & resultado & vbCrLf, True)
         Else
             MessageBox.Show("Por favor, ingresa una cantidad válida para comprar.")
